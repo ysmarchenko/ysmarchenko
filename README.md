@@ -97,14 +97,3 @@
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-
-<h2 align="left">My Repositories</h3>
-
-<p align="left">
-  <a href="https://github.com/ysmarchenko/qa-auto-portfolio-project" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/QA_Auto_Portfolio_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="QA Auto Portfolio Project"/>
-  </a>
-  <a href="https://github.com/ysmarchenko/portfolio-mobile-wdio-prj" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio_Mobile_WDIO_Project-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Mobile WDIO Project"/>
-  </a>
-</p>
