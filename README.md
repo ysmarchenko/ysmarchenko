@@ -1,116 +1,68 @@
 <h1 align="center">Hi 👋, I'm Yechenii Marchenko</h1>
 <h3 align="center">Automation QA engineer experienced in websites, API, and mobile applications testing</h3>
 
-<h2 align="left">Contact Me</h3>
+## MY CV
+🔗 **[CV Autonation QA Engineer](Yevhenii_Marchenko_Automation_QA_Engineer.pdf)**
 
-<p align="left">
-  <a href="https://linkedin.com/in/ymarchenko" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yevhenii.s.marchenko@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+## SOFTWARE SKILLS 
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style-for-the-badge&logo=typescript&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style-for-the-badge&logo=javascript&logoColor=000000)
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-5C2D91?style-for-the-badge&logo=webdriverio&logoColor=FFFFFF)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style-for-the-badge&logo=cypress&logoColor=FFFFFF)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style-for-the-badge&logo=selenium&logoColor=FFFFFF)
+![Protractor](https://img.shields.io/badge/-Protractor-0D0D0D?style-for-the-badge&logo=protractor&logoColor=FFFFFF)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style-for-the-badge&logo=mocha&logoColor=FFFFFF)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style-for-the-badge&logo=cucumber&logoColor=FFFFFF)
+![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style-for-the-badge&logo=jasmine&logoColor=FFFFFF)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style-for-the-badge&logo=jest&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style-for-the-badge&logo=github-actions&logoColor=FFFFFF)
+![GitLab Pipelines](https://img.shields.io/badge/-GitLab_Pipelines-FC6D26?style-for-the-badge&logo=gitlab&logoColor=FFFFFF)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style-for-the-badge&logo=jenkins&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style-for-the-badge&logo=github&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style-for-the-badge&logo=gitlab&logoColor=FFFFFF)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style-for-the-badge&logo=bitbucket&logoColor=FFFFFF)
+![Zephyr Scale](https://img.shields.io/badge/-Zephyr_Scale-172B4D?style-for-the-badge&logo=zephyr&logoColor=FFFFFF)
+![TestRail](https://img.shields.io/badge/-TestRail-7D7D7D?style-for-the-badge&logo=testrail&logoColor=FFFFFF)
+![BrowserStack](https://img.shields.io/badge/-BrowserStack-F5B400?style-for-the-badge&logo=browserstack&logoColor=FFFFFF)
+![Appium](https://img.shields.io/badge/-Appium-472D7B?style-for-the-badge&logo=appium&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style-for-the-badge&logo=postman&logoColor=FFFFFF)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style-for-the-badge&logo=swagger&logoColor=000000)
+![JUnit](https://img.shields.io/badge/-JUnit-25A162?style-for-the-badge&logo=junit5&logoColor=FFFFFF)
+![XRAY](https://img.shields.io/badge/-XRAY-1CA6E2?style-for-the-badge&logo=xray&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style-for-the-badge&logo=microsoft-sql-server&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style-for-the-badge&logo=docker&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style-for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
 
-<h2 align="left">Technical Skills</h3>
+## PROFESSIONAL EXPERIENCE  
+**Automation QA Engineer at Walltech, Remote** | *Aug 2021 – Nov 2024*
 
-- **Types of testing (Automation & Manual):** Web, Mobile (iOS & Android), RESTful API testing, UI appearance testing by comparing screenshots
+**Key Projects:**  
+- Automated meal delivery system with Slack/Okta integration.  
+- Educational platform for preschoolers.  
+- Real Estate CRM for US agents.  
+- Student assessment platform.  
 
-- **Programming languages:**
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
-  </a>
+**Responsibilities & Achievements:**  
+- Developed and executed manual and automated tests (UI, API, mobile, web).  
+- Created test scripts with WebdriverIO, Cypress, and Appium.  
+- Set up CI/CD pipelines using GitHub Actions and Jenkins.  
+- Improved test stability, speed, and coverage.  
+- Mentored junior QAs and led app releases to Play Market/App Store. 
 
-- **Testing Frameworks:** 
-  <a href="https://webdriver.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/WebdriverIO-5C2D91?style=for-the-badge&logo=webdriverio&logoColor=white" alt="webdriverio" />
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="cypress" />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />
-  </a>
-  <a href="https://www.protractortest.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Protractor-0D0D0D?style=for-the-badge&logo=protractor&logoColor=white" alt="protractor" />
-  </a>
-  <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="mocha" />
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber" />
-  </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" alt="jasmine" />
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
-  </a>
+## LANGUAGES
+![ENGLISH](https://img.shields.io/badge/-ENGLISH_Intermediate-20B2AA?style-for-the-budge&logo=WEB&logoColor=FFFFFF)
+![UKRAINIAN](https://img.shields.io/badge/-UKRAINIAN_Fluent-20B2AA?style-for-the-budge&logo=WEB&logoColor=FFFFFF)
+![RUSSIAN](https://img.shields.io/badge/-RUSSIAN_Fluent-20B2AA?style-for-the-budge&logo=WEB&logoColor=FFFFFF)
 
-- **CI / CD platforms:**
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  </a>
-  <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab%20Pipelines-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Pipelines"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  </a>
+## EDUCATION  
+**National Aerospace University – Kharkiv Aviation Institute**  
+Master's in Computer Software Engineering (Sep 2023 – Dec 2024)
 
-- **Version control:**
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-  </a>
+**Kharkiv National University of Radioelectronics**  
+Bachelor's degree, Electronic Devices and Systems (Sep 2019 - Jul 2023)
 
-- **Third-party testing services & tools:** 
-  <a href="https://zephyrdocs.atlassian.net/wiki/spaces/ZSCALE/overview" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Zephyr%20Scale-172B4D?style=for-the-badge&logo=zephyr&logoColor=white" alt="zephyr scale" />
-  </a>
-  <a href="https://www.gurock.com/testrail" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/TestRail-7D7D7D?style=for-the-badge&logo=testrail&logoColor=white" alt="testrail" />
-  </a>
-  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/BrowserStack-F5B400?style=for-the-badge&logo=browserstack&logoColor=white" alt="browserstack" />
-  </a>
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="jmeter" />
-  </a>
-  <a href="http://appium.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Appium-472D7B?style=for-the-badge&logo=appium&logoColor=white" alt="appium" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-  </a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="swagger" />
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit" />
-  </a>
-  <a href="https://www.getxray.app/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/XRAY-1CA6E2?style=for-the-badge&logo=xray&logoColor=white" alt="xray" />
-  </a>
 
-- **Other:**
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-  </a>
+## FOLLOW ME  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style-for-the-budge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/ymarchenko/)
+[![E-Mail](https://img.shields.io/badge/-GMail-D14836?style-for-the-budge&logo=gmail&logoColor=FFFFFF)](mailto:yevhenii.s.marchenko@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style-for-the-budge&logo=github&logoColor=FFFFFF)](https://github.com/ysmarchenko) 
