@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yechenii Marchenko</h1>
-<h3 align="center">Automation QA engineer experienced in websites, API, and mobile applications testing</h3>
+<h3 align="center">Automation QA professional with 3.5 years of expertise in Web, API (REST/GraphQL), and mobile (iOS/Android) testing. Skilled in creating test plans, designing scalable automation architectures, and configuring CI/CD systems. Strong team collaborator, focused on continuous improvement and achieving goals.</h3>
 
 ## MY CV
-🔗 **[CV Autonation QA Engineer](Yevhenii_Marchenko_Automation_QA_Engineer.pdf)**
+🔗 **[CV Autonation QA Engineer](Yevhenii_Marchenko_Automation_QA_Engineer_no_phone.pdf)**
 
 ## SOFTWARE SKILLS 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style-for-the-badge&logo=typescript&logoColor=FFFFFF)
@@ -36,18 +36,26 @@
 ## PROFESSIONAL EXPERIENCE  
 **Automation QA Engineer at Walltech, Remote** | *Aug 2021 – Nov 2024*
 
-**Key Projects:**  
-- Automated meal delivery system with Slack/Okta integration.  
-- Educational platform for preschoolers.  
-- Real Estate CRM for US agents.  
-- Student assessment platform.  
+**Responsibilities & Achievements:**
 
-**Responsibilities & Achievements:**  
-- Developed and executed manual and automated tests (UI, API, mobile, web).  
-- Created test scripts with WebdriverIO, Cypress, and Appium.  
-- Set up CI/CD pipelines using GitHub Actions and Jenkins.  
-- Improved test stability, speed, and coverage.  
-- Mentored junior QAs and led app releases to Play Market/App Store. 
+- Migrated automated tests from TestCafe to Playwright and built the automation framework from scratch for Web, Mobile (iOS, Android), and API (REST, GraphQL), improving test execution stability and speed
+- Was the main person responsible for application releases to the Play Market and App Store, ensuring timely and high-quality deployments
+- Integrated automated tests with GitHub Actions and TestRail, configured a secure VPN for test execution, and implemented custom Slack notifications for streamlined reporting and real-time updates
+- Developed cross-browser UI automation tests, improving defect detection and release quality for Web and Mobile applications
+- Refactored codebase and automated tests to reduce execution time and increase coverage for critical scenarios
+- Communicated with developers, product/project managers, CEO, and stakeholders to align testing with business
+goals
+- Wrote and maintained test documentation, including test plans, test strategies, test cases, and technical guidelines
+- Configured and maintained CI/CD pipelines using Jenkins, BrowserStack, GitLab pipelines
+- Refined test case management in TestRail, improving clarity and navigation for efficient testing
+- Conducted regression, functional, and integration testing, including email integration
+
+**Commercial projects (at Walltech)**
+- Corporate Meal Delivery Service: Automated meal ordering system with Slack and Okta integration
+- Educational Platform for Preschoolers: Mobile app supporting personalized learning and family engagement
+- Agronomist and Farmer Platform: Tools for field data collection and task management
+- Real Estate CRM: Enhancing customer communication and sales for US agents
+- Student Assessment Platform: Tools for tracking academic performance and personalized learning
 
 ## LANGUAGES
 ![ENGLISH](https://img.shields.io/badge/-ENGLISH_Intermediate-20B2AA?style-for-the-budge&logo=WEB&logoColor=FFFFFF)
